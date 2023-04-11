@@ -30,6 +30,7 @@ public class Aler {
 			for (int i = 0; i < options.size(); i++) {
 				if (i%2==0) {
 					System.out.println(options.get(i).getText());
+					System.out.println("noel");
 					
 				}
 				
